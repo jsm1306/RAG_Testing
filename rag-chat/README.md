@@ -1,4 +1,4 @@
-# 🔮 RAG Chat BASS - AI-Powered Course Assistant
+# 🔮 RAG Chat - AI-Powered Course Assistant
 
 A professional RAG (Retrieval-Augmented Generation) chatbot built for the **3-1 Course Big Data Engineering** curriculum. This application leverages Langflow for RAG pipeline orchestration and features a modern cyberpunk-inspired UI with animated network visualizations.
 
